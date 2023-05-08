@@ -24,9 +24,6 @@
 - [[https://docs.github.com/es/issues][Issues en GitHub]]
 - [[https://docs.github.com/es/issues/using-labels-and-milestones-to-track-work/about-milestones][Hitos (milestones) en GitHub]]
 
-** Contenidos
-*** Presentación
- - [[https://pedroprieto.github.io/curso-github/presentaciones/sesion-3-presentacion.html][Presentación]]
    
 *** Tareas basadas en repositorios para trabajo en clase
 GitHub ofrece funcionalidades muy interesantes para trabajar con prácticas relacionadas con código o archivos de texto. Comparado con la gestión tradicional de tareas (creación de un fichero comprimido y subida de dicho fichero a una plataforma de tipo Moodle o entrega por correo) tenemos las siguientes *ventajas*:
